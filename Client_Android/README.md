@@ -5,8 +5,6 @@
 
 [REST API Server](https://github.com/ChandanAdiga/NodeJS_ServerApps/)
 
-[Client-Android](https://github.com/ChandanAdiga/Client_Android/)
-
 [Client-iOS](https://github.com/ChandanAdiga/Client_iOS/)
 
 

@@ -20,4 +20,8 @@ Server apps developped using NodeJS.
     node index.js
     ```
 
+[Client-Android](https://github.com/ChandanAdiga/ItemsInventory/tree/master/Client_Android/)
+
+[Client-iOS](https://github.com/ChandanAdiga/ItemsInventory/tree/master/Client_iOS/)
+
 ![Server set up screenshot](https://github.com/ChandanAdiga/ItemsInventory/blob/master/NodeJS_ServerApps/Screenshot_Server_Setup.png)

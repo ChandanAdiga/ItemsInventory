@@ -3,8 +3,8 @@
 
 ### Client-iOS:
 
-[REST API Server](https://github.com/ChandanAdiga/NodeJS_ServerApps/)
+[REST API Server](https://github.com/ChandanAdiga/ItemsInventory/tree/master/NodeJS_ServerApps/)
 
-[Client-Android](https://github.com/ChandanAdiga/Client_Android/)
+[Client-Android](https://github.com/ChandanAdiga/ItemsInventory/tree/master/Client_Android/)
 
 ![Server set up screenshot](https://github.com/ChandanAdiga/ItemsInventory/blob/master/Screenshot_Postman.png)

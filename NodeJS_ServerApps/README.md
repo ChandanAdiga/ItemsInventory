@@ -1,6 +1,6 @@
-# NodeJS_SampleApps
+# NodeJS_ServerApps
 
-Sample apps developped while learning NodeJS.
+Server apps developped using NodeJS.
 
 ## Set up:
 1. Check out this repo.

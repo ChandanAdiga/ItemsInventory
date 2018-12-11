@@ -1,7 +1,7 @@
 # ItemsInventory
 
 
-### Components:
+### Client-Android:
 
 [REST API Server](https://github.com/ChandanAdiga/NodeJS_ServerApps/)
 

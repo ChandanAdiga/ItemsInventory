@@ -20,4 +20,4 @@ Sample apps developped while learning NodeJS.
     node index.js
     ```
 
-![Server set up screenshot](https://github.com/ChandanAdiga/ItemsInventory/blob/master/Screenshot_Server_Setup.png)
+![Server set up screenshot](https://github.com/ChandanAdiga/ItemsInventory/blob/master/NodeJS_ServerApps/Screenshot_Server_Setup.png)

@@ -1,3 +1,3 @@
 
-//Ex: Connect + Express + MonogoDB
+require('./appStorageSample/server')
 require('./appRESTSample/server')

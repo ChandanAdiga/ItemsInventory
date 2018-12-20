@@ -9,6 +9,6 @@ app.use(bodyParser.urlencoded({ extended: true }))
 // parse requests of content-type - application/json
 app.use(bodyParser.json())
 
-require('./routes/item.routes.v1.js')(app);
+require('./routes/photo.routes.v1.js')(app);
 
 module.exports = app;

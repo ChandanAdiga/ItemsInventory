@@ -4,6 +4,7 @@ const mongoose = require('mongoose');
 //[RAW_FILE
 const RawFileSchema = mongoose.Schema({
     name: String,
+    itemId: String,
     contentType:String,
     data: Buffer
 }, {
@@ -15,6 +16,7 @@ exports.rawFile = mongoose.model('RawFile', RawFileSchema);
 //[THUMBNAIL
 const ThumbnailSchema = mongoose.Schema({
     name: String,
+    itemId: String,
     contentType:String,
     data: Buffer,
     rawFile : { type: mongoose.Schema.Types.ObjectId, ref: 'RawFile' },

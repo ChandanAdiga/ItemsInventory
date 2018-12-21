@@ -7,20 +7,20 @@ const mongoose = require('mongoose');
 const PORT_ADD = 3332;
 const port = normalizePort(process.env.PORT || PORT_ADD);
 
-console.log("\nSetting up database..");
+console.log("\nSetting up appRESTSample database..");
 mongoose.Promise = global.Promise;
 // Connecting to the database
 mongoose.connect(appDbConfig.url, {
     useNewUrlParser: true
 }).then(() => {
-    console.log("Successfully connected to the database");
+    console.log("\nSuccessfully connected to the appRESTSample database");
     const server = http.createServer(app);
     server.listen(port);
     // server.on('error',onError);
     // server.on('listening',onListening);
-    console.log('\appRESTSample Server is running successfully @ http://localhost:'+PORT_ADD);
+    console.log('\nappRESTSample Server is running successfully @ http://localhost:'+PORT_ADD);
 }).catch(err => {
-    console.log('Could not connect to the database. Exiting now...', err);
+    console.log('\nCould not connect to the appRESTSample database. Exiting now...', err);
     process.exit();
 });
 

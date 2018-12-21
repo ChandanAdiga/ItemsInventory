@@ -3,11 +3,9 @@ const router = require('../controllers/photo.controller.v1.js');
 module.exports = (app) => {
     app.get('/api/v1/', router.getAPIs);
 
-    app.post('/api/v1/uploadFile', router.uploadFile);
+    // app.post('/api/v1/uploadFile', router.uploadFile);
 
-    app.post('/api/v1/addPhoto', router.addPhoto);
-
-    app.get('/api/v1/getPhoto', router.getPhoto);
+    app.post('/api/v1/uploadPhoto', router.uploadPhoto);
 
     app.get('/api/v1/downloadPhoto', router.downloadPhoto);
 

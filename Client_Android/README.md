@@ -1,7 +1,4 @@
-# ItemsInventory
-
-
-### Client-Android:
+# ItemsInventory / Client-Android :
 
 [REST API Server](https://github.com/ChandanAdiga/ItemsInventory/tree/master/NodeJS_ServerApps/)
 

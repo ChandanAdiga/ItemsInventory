@@ -16,6 +16,7 @@
 <div style="display:flex; flex-direction: row;">
   <img src="https://github.com/ChandanAdiga/ItemsInventory/blob/master/Client_Android/Screenshot_FetchItems.png" height="400" hspace="20"/>
   <img src="https://github.com/ChandanAdiga/ItemsInventory/blob/master/Client_Android/Screenshot_FetchItemsMenu.png" height="400" hspace="20"/>
+  <img src="https://github.com/ChandanAdiga/ItemsInventory/blob/master/Client_Android/Screenshot_DeleteItem.png" height="400" hspace="20"/>
 </div>
 
 

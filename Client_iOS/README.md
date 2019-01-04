@@ -1,7 +1,4 @@
-# ItemsInventory
-
-
-### Client-iOS:
+# ItemsInventory / Client-iOS :
 
 [REST API Server](https://github.com/ChandanAdiga/ItemsInventory/tree/master/NodeJS_ServerApps/)
 
